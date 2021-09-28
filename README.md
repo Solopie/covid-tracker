@@ -1,4 +1,4 @@
-# Covid Tracker CLI
+# Covid Tracker
 
 There probably is a lot of stuff already out there like this but just for personal use.
 
